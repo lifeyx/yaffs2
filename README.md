@@ -1,3 +1,6 @@
-ÓÃÓÚÊ¹linuxÄÚºË3.4Ö§³Öyaffs2µÄÔ´Âë
-¾ßÌåÊ¹ÓÃ·½·¨Çë¿´README-linux
-»òÕß²Î¿¼²©¿Í:http://www.cnblogs.com/lifexy/p/8360970.html
+
+ç”¨äºä½¿linuxå†…æ ¸3.4æ”¯æŒyaffs2çš„æºç 
+
+å…·ä½“ä½¿ç”¨æ–¹æ³•è¯·çœ‹README-linux
+
+æˆ–è€…å‚è€ƒåšå®¢:http://www.cnblogs.com/lifexy/p/8360970.html
